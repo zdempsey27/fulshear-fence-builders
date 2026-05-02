@@ -1,0 +1,8 @@
+# Robots.txt for Fulshear Fence Builders
+# https://fulshearfencebuilders.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://fulshearfencebuilders.com/sitemap-index.xml
